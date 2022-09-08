@@ -1,20 +1,7 @@
 <?php
 
-    $page_title = 'Address, Telephone, Email | Contact Codzbee Sri Lanka Online';
-    $meta_description = 'Get connected with digital travel technology agency for all web, app development or digital marketing solutions. Contact Codzbee Sri Lanka via Post, Email or Phone.';
-    $meta_keywords = ['contact codzbee'];
     include('../../_includes/header.php'); 
 ?>
-
-<div class="container-fluid text-center page-banner">
-    <h1 class="text-secondary">Contact</h1>
-    <p>
-        CODZBEE PVT LTD, No.50/1/3 Dehiwala Road,
-        Boralesgamuwa,
-        Sri Lanka.
-    </p>
-</div>
-
 
 <div class="page-content margin-bottom">
     <div class="container">
@@ -94,30 +81,9 @@
                 </form>
             </div>
             <div class="col-12 col-sm-4">
-                <div class="h5 font-weight-bold">Location</div>
-                <p class="form-content">
-                    CODZBEE PVT LTD,<br>
-                    No. 50/1/3 Dehiwala Road,<br>
-                    Boralesgamuwa,<br>
-                    Sri Lanka.
-                </p>
-
                 <div class="h5 font-weight-bold">Telephone</div>
-                <p class="form-content"> <a href="tel:+94112057533">+94 11 205 75 33</a></p>
-
                 <div class="h5 font-weight-bold">Email</div>
-                <p class="form-content"> <a href="mailto:info@codzbee.com">info@codzbee.com</a></p>
             </div>
-        </div>
-        <div class="row">
-            <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.415894983432!2d79.89791231527511!3d6.840640321291778!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25befa3c69ae1%3A0x9360f5c8d61a1209!2sCodz%20Bee%20(PVT)%20Ltd!5e0!3m2!1sen!2slk!4v1618228810771!5m2!1sen!2slk"
-                    width="100%"
-                    height="300px"
-                    style="border:0;"
-                    allowfullscreen=""
-                    loading="lazy">
-            </iframe>
         </div>
     </div>
 </div>
